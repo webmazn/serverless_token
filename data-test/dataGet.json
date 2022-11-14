@@ -1,0 +1,44 @@
+{
+    "version": "2.0",
+    "routeKey": "GET /a2228e99-8e5b-4de7-b71a-838798ade752",
+    "rawPath": "/a2228e99-8e5b-4de7-b71a-838798ade752",
+    "rawQueryString": "",
+    "headers": {
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br",
+        "authorization": "Bearer pk_test_LstJoiskhHytsmksjgakKhs",
+        "cache-control": "no-cache",
+        "content-length": "171",
+        "content-type": "application/json",
+        "host": "qymgqf3bai.execute-api.us-east-1.amazonaws.com",
+        "postman-token": "18e408fc-7f1a-400b-a5b2-1f68f5af8b52",
+        "user-agent": "PostmanRuntime/7.29.2",
+        "x-amzn-trace-id": "Root=1-633dd11b-26b8d39c2b72e51765126546",
+        "x-forwarded-for": "190.237.115.239",
+        "x-forwarded-port": "443",
+        "x-forwarded-proto": "https"
+    },
+    "requestContext": {
+        "accountId": "836158544815",
+        "apiId": "qymgqf3bai",
+        "domainName": "qymgqf3bai.execute-api.us-east-1.amazonaws.com",
+        "domainPrefix": "qymgqf3bai",
+        "http": {
+            "method": "GET",
+            "path": "/health",
+            "protocol": "HTTP/1.1",
+            "sourceIp": "190.237.115.239",
+            "userAgent": "PostmanRuntime/7.29.2"
+        },
+        "requestId": "Zi2cUisQoAMEVqw=",
+        "routeKey": "GET /health",
+        "stage": "$default",
+        "time": "05/Oct/2022:18:46:51 +0000",
+        "timeEpoch": 1664995611414
+    },
+    "pathParameters": {
+        "id": "ef4f22f4-b29e-47c3-a263-a123864e4f87"
+    },    
+    "body": "",
+    "isBase64Encoded": false
+}
